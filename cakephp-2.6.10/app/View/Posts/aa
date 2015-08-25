@@ -1,0 +1,6 @@
+<h2>削除認証</h2>
+
+<?php
+//echo $this->Form->create('Delete');
+//echo $this->Form->input('pass');
+//echo $this->Form->end('送信');
